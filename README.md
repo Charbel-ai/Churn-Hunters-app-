@@ -1,4 +1,4 @@
-# Churn Hunters App · Plataforma de Decisiones Predictivas (IA)
+# Binary Hunters App · Plataforma de Decisiones Predictivas (IA)
 
 **Churn Hunters** es una solución de Inteligencia Artificial diseñada para mitigar proactivamente el abandono de clientes (*Churn*) en el canal tradicional (misceláneas y tienditas) de **Arca Continental**. A través de un modelo avanzado de Machine Learning y una interfaz analítica de última generación, transformamos datos transaccionales masivos en acciones comerciales directas en el campo.
 
