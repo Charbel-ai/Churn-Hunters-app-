@@ -1,0 +1,4 @@
+eenv/
+data/Coolers.csv
+data/sales_churn_train.csv
+data/clientes_scoring_precalculado.csv
